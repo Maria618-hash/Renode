@@ -1,0 +1,5 @@
+# big archives / toolchains (optional)
+*.zip
+*.tar.gz
+*.tar.gz.*
+xpack-*/
